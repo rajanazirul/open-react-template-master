@@ -16,7 +16,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/cruip/open-react-template.git"
+    "url": "https://github.com/rajanazirul/open-react-template-master.git"
   },
   "scripts": {
     "start": "react-scripts start",
