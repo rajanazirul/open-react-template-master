@@ -75,6 +75,9 @@ const Hero = ({
                   <Button tag="a" color="dark" wideMobile href="https://demo.empayar.co/">
                     View on Demo
                     </Button>
+                    <Button tag="a" color="dark" wideMobile href="https://docs.invoicemudah.com/">
+                    Documentation
+                    </Button>
                 </ButtonGroup>
               </div>
             </div>

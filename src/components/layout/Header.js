@@ -105,6 +105,15 @@ const Header = ({
                     isActive && 'is-active'
                   )}>
                 <div className="header-nav-inner">
+                <ul className={
+                    classNames(
+                      'list-reset text-xs',
+                      navPosition && `header-nav-${navPosition}`
+                    )}>
+                    <li>
+                      <a href="https://docs.invoicemudah.com/" onClick={closeMenu}>Documentation</a>
+                    </li>
+                  </ul>                  
                   <ul className={
                     classNames(
                       'list-reset text-xs',
